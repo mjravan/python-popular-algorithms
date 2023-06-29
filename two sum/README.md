@@ -8,10 +8,3 @@ Two Sum
 ---
 # Big O Notation Of Algorithm
 The algorithm’s run–time complexity is O(n^2)
-
----
-# Instruction Of Algorithm
-After receiving input, starts by summing first and last index
-numbers. Then compare it with desired number and continually
-change low, high and mid. Once that find two number, 
-return back their index in a list.

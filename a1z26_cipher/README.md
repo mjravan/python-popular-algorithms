@@ -10,6 +10,5 @@ A cipher algorithm for encrypting message or data.<br>
 File: [a1z26 Cipher](./a1z26_cipher.py)
 
 ---
-## Instruction of encoding
-convert a string to a list of unicode numbers
-## Instruction of decoding
+# Big O Notation Of Algorithm
+The algorithm’s run–time complexity is O(1)

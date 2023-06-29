@@ -24,5 +24,5 @@ def decrypt(string, key):
     return encrypt(string, key)
 
 
-print(decrypt('RW', 4))
+print(encrypt('amir', 4))
 

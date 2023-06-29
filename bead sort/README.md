@@ -1,7 +1,13 @@
 # Bead Sort Algorithm
 Bead Sort or Gravity sort is a species of sorting
 numbers with an average of good _Big O Notation_.
-<br>file: [Bead Sort](./bead%20sort.py)
+<br>
+````
+Bead Sort
+    [3,5,2,6,1] => [1,2,3,5,6]
+````
+file: [Bead Sort](./bead%20sort.py)
+
 ---
 # Big O Notation Of Algorithm
 ## Time Complexity:
@@ -14,4 +20,3 @@ Finally, three possible implementations are suggested.
 2. O(n^1^/^2)
 3. O(n)
 4. O(S)
----
