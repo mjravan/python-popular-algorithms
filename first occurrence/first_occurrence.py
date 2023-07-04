@@ -21,4 +21,9 @@ def first_occurrence(arr, element):
         return low
 
 
-print(first_occurrence([2, 2, 2, 3, 3, 4, 4, 5, 5, 5], 4))
+# print(first_occurrence([2, 2, 2, 3, 3, 4, 4, 5, 5, 5], 4))
+def show(arr, key):
+    return first_occurrence(arr, key)
+
+
+print(show([2, 2, 2, 3, 3, 4, 4, 5, 5, 5], 4))
