@@ -6,8 +6,6 @@ numbers with an average of good _Big O Notation_.
 Bead Sort
     [3,5,2,6,1] => [1,2,3,5,6]
 ````
-file: [Bead Sort](./bead%20sort.py)
-
 ---
 # Big O Notation Of Algorithm
 ## Time Complexity:
@@ -20,3 +18,7 @@ Finally, three possible implementations are suggested.
 2. O(n^1^/^2)
 3. O(n)
 4. O(S)
+---
+# Resources:
+### - [Bead Sort](./bead_sort.py)<br>
+### - [Testing File](./test_bead.py)

@@ -8,3 +8,7 @@ Search Insert
 ---
 # Big O Notation Of Algorithm
 The algorithm’s run–time complexity is O(n^n)
+
+---# Resources:
+- [Search Insert](./serach_insert.py)<br>
+- [Testing File](./test_S_insert.py)

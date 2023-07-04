@@ -6,8 +6,11 @@ Is Isomorphic
     ['paper', 'title'] => True
     ['sea', 'bee']     => False
 ```
-File: [Is Isomorphic](./is_isomorphic.py)
-
 ---
 # Big O Notation Of Algorithm
 The algorithm’s run–time complexity is O(n)
+
+---
+# Resources:
+- [Is Isomorphic](./is_isomorphic.py)<br>
+- [Testing File](./test_isomorphic.py)

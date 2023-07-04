@@ -8,3 +8,8 @@ Two Sum
 ---
 # Big O Notation Of Algorithm
 The algorithm’s run–time complexity is O(n^2)
+
+---
+# Resources:
+- [Two Sum](./two_sum.py)<br>
+- [Testing File](./test_sums.py)

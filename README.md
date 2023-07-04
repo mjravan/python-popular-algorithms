@@ -1,11 +1,12 @@
 # Collection of popular Algorithms
 There's a brief list of popular and usage Algorithms that I
-have written them 
+have written them.<br>
+All Algorithms has been tested by using Unittest.
 
 1. [A1Z26 Cipher Algorithm](./a1z26_cipher/README.md)
     - A1Z26 is very simple direct substitution cypher, where each alphabet letter is replaced by its number in the alphabet.
 Below is the A1Z26 encoder/decoder. Here all letters are set to lowercase, the English alphabet is used, and all non-alphabet symbols are not transformed. In decoding, all numbers (from 1 to 26) should be separated by any non-digit symbol (dash, space).
-2. [Bead Sort](./bead%20sort/README.md)
+2. [Bead Sort](./bead_sort/README.md)
    - Also known as Gravity sort, this algorithm was inspired by natural phenomena and was designed keeping in mind objects(or beads) falling under the influence of gravity. The Idea: Positive numbers are represented by a set of beads like those on an abacus.
 3. [Binary Search](./binary%20search/README.md)
     - Binary insertion sort is a sorting algorithm which is similar to the insertion sort, but instead of using linear search to find the location where an element should be inserted, we use binary search. Thus, we reduce the comparative value of inserting a single element from O (N) to O (log N).
